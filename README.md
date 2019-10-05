@@ -2,7 +2,9 @@
 
 # Recurrent Tensor Factorization 
 
-Introduction: This is the implementation of our paper:
+Introduction: 
+
+This is the implementation of our paper:
 
 Yiwen Zhang, Chunhui Yin, Zhihui Lu*, Dengcheng Yan, Meikang Qiu, Qifeng Tang. [Recurrent Tensor Factorization for time-aware Service Recommendation](https://doi.org/10.1016/j.asoc.2019.105762), Applied Soft Computing 85 (2019) 105762. (SCI)
 
